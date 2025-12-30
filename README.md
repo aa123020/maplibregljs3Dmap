@@ -1,3 +1,4 @@
 # maplibregljs3Dmap
 
-aa123020.github.io/maplibregljs3Dマップ/
+aa123020.github.io/maplibregljs3Dmap
+/
